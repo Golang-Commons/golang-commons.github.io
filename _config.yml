@@ -1,0 +1,17 @@
+# Site settings
+title: Golang Commons
+shorttitle: Golang
+email: qiuker521@163.com
+description: > 
+  Apache Commons are excellent jobs, 
+  so do Golang Commons.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  Golang-Commons
+#disqus_shortname: golang-commons
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
